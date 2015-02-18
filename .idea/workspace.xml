@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e4c69db-b48c-42f9-81ee-376cd77410c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/mypic.png" afterPath="$PROJECT_DIR$/portfolio/img/mypic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/img/sql.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/img/mypic.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="githubIo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,20 +40,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.098039" vertical-offset="2116" max-vertical-offset="8235">
-              <caret line="155" column="52" selection-start-line="155" selection-start-column="52" selection-end-line="155" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.5574534" vertical-offset="2116" max-vertical-offset="8295">
+              <caret line="165" column="82" selection-start-line="165" selection-start-column="82" selection-end-line="165" selection-end-column="82" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mypic.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/portfolio/img/mypic.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -79,11 +74,11 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="15450">
-              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="15150">
+              <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
               <folding>
-                <marker date="1424291110000" expanded="true" signature="54156:54202" placeholder="..." />
-                <marker date="1424291110000" expanded="true" signature="54156:54187" placeholder="..." />
+                <marker date="1424291438000" expanded="true" signature="53559:53605" placeholder="..." />
+                <marker date="1424291438000" expanded="true" signature="53559:53590" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -498,7 +493,7 @@
       <workItem from="1424283673594" duration="33000" />
       <workItem from="1424283730620" duration="158000" />
       <workItem from="1424284222586" duration="738000" />
-      <workItem from="1424285164135" duration="3895000" />
+      <workItem from="1424285164135" duration="4036000" />
     </task>
     <task id="LOCAL-00001" summary="SAMPLE COMMITT">
       <created>1424284244248</created>
@@ -510,11 +505,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6561000" />
+    <option name="totallyTimeSpent" value="6702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1410" height="813" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -589,8 +584,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="13920">
           <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
           <folding>
-            <marker date="1424291110000" expanded="true" signature="54156:54202" placeholder="..." />
-            <marker date="1424291110000" expanded="true" signature="54156:54187" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53605" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53590" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -645,8 +640,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="10785">
           <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
           <folding>
-            <marker date="1424291110000" expanded="true" signature="54156:54202" placeholder="..." />
-            <marker date="1424291110000" expanded="true" signature="54156:54187" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53605" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53590" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -701,8 +696,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="9990">
           <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
           <folding>
-            <marker date="1424291110000" expanded="true" signature="54156:54202" placeholder="..." />
-            <marker date="1424291110000" expanded="true" signature="54156:54187" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53605" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53590" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -757,8 +752,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9150">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1424291110000" expanded="true" signature="54156:54202" placeholder="..." />
-            <marker date="1424291110000" expanded="true" signature="54156:54187" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53605" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53590" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -958,11 +953,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="15450">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="15150">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
           <folding>
-            <marker date="1424291110000" expanded="true" signature="54156:54202" placeholder="..." />
-            <marker date="1424291110000" expanded="true" signature="54156:54187" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53605" placeholder="..." />
+            <marker date="1424291438000" expanded="true" signature="53559:53590" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1000,15 +995,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.098039" vertical-offset="2116" max-vertical-offset="8235">
-          <caret line="155" column="52" selection-start-line="155" selection-start-column="52" selection-end-line="155" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.5574534" vertical-offset="2116" max-vertical-offset="8295">
+          <caret line="165" column="82" selection-start-line="165" selection-start-column="82" selection-end-line="165" selection-end-column="82" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/img/mypic.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
   </component>
