@@ -49,7 +49,7 @@ function submitMailTo() {
     }
     var emailFrom = $('#email').val();
     var message = encodeURI($('#message').val());
-    var href = 'mailto:sumeet_singh871@yahoo.com?subject='+encodeURI(subject)+'&body='+message+'&cc='+emailFrom;
+    var href = 'mailto:sai.k.tech@gmail.com?subject='+encodeURI(subject)+'&body='+message+'&cc='+emailFrom;
     window.location.href= href;
     return false;
 }
