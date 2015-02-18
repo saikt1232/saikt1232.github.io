@@ -41,8 +41,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33229813" vertical-offset="926" max-vertical-offset="8295">
-              <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.44875777" vertical-offset="2546" max-vertical-offset="8280">
+              <caret line="189" column="14" selection-start-line="189" selection-start-column="14" selection-end-line="189" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -75,8 +75,8 @@
             <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="15120">
               <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
               <folding>
-                <marker date="1424291616000" expanded="true" signature="53368:53414" placeholder="..." />
-                <marker date="1424291616000" expanded="true" signature="53368:53399" placeholder="..." />
+                <marker date="1424291892000" expanded="true" signature="53376:53422" placeholder="..." />
+                <marker date="1424291892000" expanded="true" signature="53376:53407" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -491,7 +491,7 @@
       <workItem from="1424283673594" duration="33000" />
       <workItem from="1424283730620" duration="158000" />
       <workItem from="1424284222586" duration="738000" />
-      <workItem from="1424285164135" duration="4198000" />
+      <workItem from="1424285164135" duration="4473000" />
     </task>
     <task id="LOCAL-00001" summary="SAMPLE COMMITT">
       <created>1424284244248</created>
@@ -503,7 +503,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6864000" />
+    <option name="totallyTimeSpent" value="7139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1410" height="813" extended-state="0" />
@@ -582,8 +582,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="13920">
           <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
           <folding>
-            <marker date="1424291616000" expanded="true" signature="53368:53414" placeholder="..." />
-            <marker date="1424291616000" expanded="true" signature="53368:53399" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53422" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53407" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -638,8 +638,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="10785">
           <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
           <folding>
-            <marker date="1424291616000" expanded="true" signature="53368:53414" placeholder="..." />
-            <marker date="1424291616000" expanded="true" signature="53368:53399" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53422" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53407" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -694,8 +694,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="9990">
           <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
           <folding>
-            <marker date="1424291616000" expanded="true" signature="53368:53414" placeholder="..." />
-            <marker date="1424291616000" expanded="true" signature="53368:53399" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53422" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53407" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -750,8 +750,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9150">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1424291616000" expanded="true" signature="53368:53414" placeholder="..." />
-            <marker date="1424291616000" expanded="true" signature="53368:53399" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53422" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53407" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -954,8 +954,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="15120">
           <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
           <folding>
-            <marker date="1424291616000" expanded="true" signature="53368:53414" placeholder="..." />
-            <marker date="1424291616000" expanded="true" signature="53368:53399" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53422" placeholder="..." />
+            <marker date="1424291892000" expanded="true" signature="53376:53407" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -993,8 +993,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33229813" vertical-offset="926" max-vertical-offset="8295">
-          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.44875777" vertical-offset="2546" max-vertical-offset="8280">
+          <caret line="189" column="14" selection-start-line="189" selection-start-column="14" selection-end-line="189" selection-end-column="14" />
           <folding />
         </state>
       </provider>
